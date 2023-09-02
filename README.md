@@ -1,7 +1,7 @@
 <h1>Funcionamento</h1>
 
 
-<h3>Portuse Version:</h3>
+<h3>Portuguese Version:</h3>
 <h4>1- Abra o arquivo "Spammer.py"</h4>
 <h4>2- Coloque o numero de mensagens</h4>
 <h4>3- Coloque a mensagem que deseja enviar</h4>
